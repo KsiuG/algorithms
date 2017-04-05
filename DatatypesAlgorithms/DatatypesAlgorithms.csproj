@@ -46,6 +46,7 @@
     <Compile Include="Fibonacci.cs" />
     <Compile Include="GreatestCommonDev.cs" />
     <Compile Include="MaxPairWise.cs" />
+    <Compile Include="NewLocalClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
